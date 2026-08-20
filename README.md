@@ -8,7 +8,7 @@ This repository contains my student portfolio for the **Apex [Cybersecurity] Pat
 
 ## About Me
 
-I am a student at Apex in the Boulder Valley School District, and I will graduate in [2027]. After high school, I plan to [plans]. I am interested in [intersests]
+I am a student at Apex in the Boulder Valley School District, and I will graduate in [2027]. After high school, I plan to [do computer applicated work, for example cybersecurity, mechanical engineering, or auditing ]. I am interested in [computers and how stuff works]
 
 ## Portfolio Contents
 
@@ -18,7 +18,7 @@ I am a student at Apex in the Boulder Valley School District, and I will graduat
 
 ## Featured Skills
 
-- [Skill]
+- [CAD] did solid works for 2 years 
 - [Skill]
 - [Skill]
 - [Skill]
