@@ -4,7 +4,7 @@ This repository contains my student portfolio for the **Apex [Cybersecurity] Pat
 
 ## Portfolio
 
-**[Open Portfolio](https://natejanderson2008-blip.github.io/Apex-Portfollo/)**
+**[Open Portfolio](https://natejanderson2008-blip.github.io/Apex-Portfolio/)**
 
 ## About Me
 
